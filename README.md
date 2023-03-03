@@ -1,4 +1,5 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)
+![MERN-Stack-Development-and-Consulting-Services](https://user-images.githubusercontent.com/72656033/222637778-5bc224ad-497b-463f-b2b4-d1d726c80955.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhik Nayak</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1677459692~exp=1677460292~hmac=a2ec1a1b3ddd74c62dcfa81ee63d9a7081eb7a974cd1d3e97df420c0222de7f1" height="300" width="400" alt="MERN" />
